@@ -1,0 +1,6 @@
+Revision history for Perl extension Games::Traveller::UwpTools.
+
+0.01  Fri Feb 25 12:58:43 2005
+	- original version; created by h2xs 1.23 with options
+		-AX -n Games::Traveller::UwpTools
+
